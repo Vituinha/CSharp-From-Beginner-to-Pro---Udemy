@@ -1,0 +1,17 @@
+C:\Users\victor.soares\source\repos\Units\Units\obj\Debug\net8.0-windows\Units.Units.resources
+C:\Users\victor.soares\source\repos\Units\Units\obj\Debug\net8.0-windows\Units.csproj.GenerateResource.cache
+C:\Users\victor.soares\source\repos\Units\Units\obj\Debug\net8.0-windows\Units.Properties.Resources.resources
+C:\Users\victor.soares\source\repos\Units\Units\obj\Debug\net8.0-windows\Units.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.soares\source\repos\Units\Units\obj\Debug\net8.0-windows\Units.AssemblyInfoInputs.cache
+C:\Users\victor.soares\source\repos\Units\Units\obj\Debug\net8.0-windows\Units.AssemblyInfo.cs
+C:\Users\victor.soares\source\repos\Units\Units\obj\Debug\net8.0-windows\Units.csproj.CoreCompileInputs.cache
+C:\Users\victor.soares\source\repos\Units\Units\bin\Debug\net8.0-windows\Units.exe
+C:\Users\victor.soares\source\repos\Units\Units\bin\Debug\net8.0-windows\Units.deps.json
+C:\Users\victor.soares\source\repos\Units\Units\bin\Debug\net8.0-windows\Units.runtimeconfig.json
+C:\Users\victor.soares\source\repos\Units\Units\bin\Debug\net8.0-windows\Units.dll
+C:\Users\victor.soares\source\repos\Units\Units\bin\Debug\net8.0-windows\Units.pdb
+C:\Users\victor.soares\source\repos\Units\Units\obj\Debug\net8.0-windows\Units.dll
+C:\Users\victor.soares\source\repos\Units\Units\obj\Debug\net8.0-windows\refint\Units.dll
+C:\Users\victor.soares\source\repos\Units\Units\obj\Debug\net8.0-windows\Units.pdb
+C:\Users\victor.soares\source\repos\Units\Units\obj\Debug\net8.0-windows\Units.genruntimeconfig.cache
+C:\Users\victor.soares\source\repos\Units\Units\obj\Debug\net8.0-windows\ref\Units.dll
